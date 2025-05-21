@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/active/go/',
-    bare:'https://bare2.mysticmath.workers.dev/',
+    bare:'https://dm-unbl0cker-bare-server-taupe.vercel.app/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/active/uv/uv.handler.js',
